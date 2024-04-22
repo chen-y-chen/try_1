@@ -38,6 +38,10 @@
 
  面试题：some和every的区别
 
- 2.2 webpack面试题
+2.3 Git面试题
 
- 面试题：webpack插件
+ 面试题：git常用命令
+
+ 面试题：解决冲突
+
+ 面试题：GitFlow
